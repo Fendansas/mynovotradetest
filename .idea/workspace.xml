@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f64111a2-055a-402e-885e-0aae09799f07" name="Default Changelist" comment="novo trade">
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/mynovotrade/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/mynovotrade/nbproject/project.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="9001" listening_started="true">
+    <xdebug_debug_ports port="9001" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 5.5" />
+  <component name="ProjectId" id="1t4oKD4QXRpfZrFal8RD770BgU8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/mythemes" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/mythemes" />
+      <recent name="$PROJECT_DIR$/wp-content/plugins" />
+      <recent name="$PROJECT_DIR$/wp-content/plugins/sasreview/assets/front" />
+      <recent name="$PROJECT_DIR$/wp-content/plugins/sasreview/assets/admin" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/twentynineteen" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/twentytwenty/templates" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/twentytwenty/template-parts" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/twentytwenty" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f64111a2-055a-402e-885e-0aae09799f07" name="Default Changelist" comment="" />
+      <created>1622037657967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622037657967</updated>
+      <workItem from="1622037660569" duration="494000" />
+      <workItem from="1623331717740" duration="27986000" />
+      <workItem from="1624372116288" duration="782000" />
+      <workItem from="1624373833802" duration="686000" />
+      <workItem from="1624376341630" duration="162000" />
+      <workItem from="1624377300532" duration="5000" />
+      <workItem from="1624377365828" duration="11000" />
+      <workItem from="1624378114446" duration="215000" />
+      <workItem from="1624378366480" duration="1415000" />
+      <workItem from="1624379922433" duration="1356000" />
+      <workItem from="1624381598782" duration="1557000" />
+      <workItem from="1624383430249" duration="554000" />
+      <workItem from="1624540051993" duration="1640000" />
+      <workItem from="1624541935629" duration="1773000" />
+      <workItem from="1624544392234" duration="1040000" />
+      <workItem from="1624547647333" duration="1636000" />
+      <workItem from="1624549535721" duration="1738000" />
+      <workItem from="1624551629581" duration="1492000" />
+      <workItem from="1624553524635" duration="1705000" />
+      <workItem from="1624556775740" duration="1725000" />
+      <workItem from="1624904167125" duration="1543000" />
+      <workItem from="1624906080875" duration="1680000" />
+      <workItem from="1624907966893" duration="1590000" />
+      <workItem from="1624910036838" duration="1742000" />
+      <workItem from="1624911950448" duration="1484000" />
+      <workItem from="1624971893264" duration="1458000" />
+      <workItem from="1624973680208" duration="1547000" />
+      <workItem from="1624975651030" duration="1880000" />
+      <workItem from="1624979064935" duration="1445000" />
+      <workItem from="1624980913177" duration="1417000" />
+      <workItem from="1624982785623" duration="1188000" />
+      <workItem from="1624986554059" duration="1348000" />
+      <workItem from="1624998760824" duration="872000" />
+      <workItem from="1625145471501" duration="1111000" />
+      <workItem from="1625148983304" duration="1551000" />
+      <workItem from="1625150807179" duration="1171000" />
+      <workItem from="1625152925865" duration="1706000" />
+      <workItem from="1625157421446" duration="481000" />
+      <workItem from="1625161039445" duration="1390000" />
+      <workItem from="1625230179459" duration="1675000" />
+      <workItem from="1625232582269" duration="1024000" />
+      <workItem from="1625234869143" duration="541000" />
+      <workItem from="1625237436977" duration="1343000" />
+      <workItem from="1625240295825" duration="803000" />
+      <workItem from="1625242458408" duration="1608000" />
+      <workItem from="1625579592515" duration="1261000" />
+      <workItem from="1625581392536" duration="1300000" />
+      <workItem from="1625584484478" duration="1057000" />
+      <workItem from="1625586399558" duration="1732000" />
+      <workItem from="1625588240490" duration="1429000" />
+      <workItem from="1625590337864" duration="1337000" />
+      <workItem from="1626181576391" duration="1576000" />
+      <workItem from="1626183805063" duration="1352000" />
+      <workItem from="1629986346785" duration="1637000" />
+      <workItem from="1629988215738" duration="1638000" />
+      <workItem from="1629992289079" duration="464000" />
+    </task>
+    <task id="LOCAL-00001" summary="sasreview start">
+      <created>1623346818328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623346818328</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sasreview test">
+      <created>1624379244026</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624379244027</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sasreview test1">
+      <created>1624379763200</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624379763200</updated>
+    </task>
+    <task id="LOCAL-00004" summary="sasreview new 22.06.21">
+      <created>1624380193785</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624380193785</updated>
+    </task>
+    <task id="LOCAL-00005" summary="sasreview works">
+      <created>1624383296481</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624383296481</updated>
+    </task>
+    <task id="LOCAL-00006" summary="my page create">
+      <created>1624552489681</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1624552489681</updated>
+    </task>
+    <task id="LOCAL-00007" summary="create function createComment">
+      <created>1624905224645</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624905224645</updated>
+    </task>
+    <task id="LOCAL-00008" summary="create function createComment 2">
+      <created>1624910064604</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1624910064604</updated>
+    </task>
+    <task id="LOCAL-00009" summary="create function createComment work">
+      <created>1624974067150</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1624974067150</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ajax works">
+      <created>1624999184163</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1624999184163</updated>
+    </task>
+    <task id="LOCAL-00011" summary="refresh div dont work(">
+      <created>1625231569633</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1625231569633</updated>
+    </task>
+    <task id="LOCAL-00012" summary="refresh div dont work1">
+      <created>1625579795497</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1625579795497</updated>
+    </task>
+    <task id="LOCAL-00013" summary="refresh div work)">
+      <created>1625585670963</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1625585670963</updated>
+    </task>
+    <task id="LOCAL-00014" summary="clear input">
+      <created>1625587658982</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1625587658982</updated>
+    </task>
+    <task id="LOCAL-00015" summary="clear input 1">
+      <created>1625588609220</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1625588609220</updated>
+    </task>
+    <task id="LOCAL-00016" summary="novo trade">
+      <created>1629986742411</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1629986742411</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main-2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sasreview start" />
+    <MESSAGE value="sasreview test" />
+    <MESSAGE value="sasreview test1" />
+    <MESSAGE value="sasreview new 22.06.21" />
+    <MESSAGE value="sasreview works" />
+    <MESSAGE value="my page create" />
+    <MESSAGE value="create function createComment" />
+    <MESSAGE value="create function createComment 2" />
+    <MESSAGE value="create function createComment work" />
+    <MESSAGE value="ajax works" />
+    <MESSAGE value="refresh div dont work(" />
+    <MESSAGE value="refresh div dont work1" />
+    <MESSAGE value="refresh div work)" />
+    <MESSAGE value="clear input" />
+    <MESSAGE value="clear input 1" />
+    <MESSAGE value="novo trade" />
+    <option name="LAST_COMMIT_MESSAGE" value="novo trade" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

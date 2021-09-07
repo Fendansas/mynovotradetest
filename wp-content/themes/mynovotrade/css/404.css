@@ -1,0 +1,127 @@
+.not-found__section {
+    height: 100vh;
+    position: relative;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+#chart-bg {
+    position: absolute;
+    height: auto;
+    z-index: 2;
+    bottom: -15%;
+    width: 101%;
+    content: url(../assets/svg__files/animated-chart-bg-1.svg);
+}
+
+#animated-chart-bg {
+    position: absolute;
+    width: 101%;
+    z-index: 2;
+    left: 0;
+    right: 0;
+}
+
+#animated-chart-bg svg{
+    transition: 3s ease-in-out;
+    stroke-dasharray: 2100;
+    stroke-dashoffset: 2100;
+}
+
+#animated-chart-bg._active svg{
+    stroke-dashoffset: 80;
+}
+
+#lion-bg {
+    position: absolute;
+    left: 0;
+    z-index: 2;
+    content: url(../assets/svg__files/lion-bg.svg);
+}
+
+#yellow-break-line {
+    width: 100%;
+    height: 102px;
+    bottom: 0;
+    position: absolute;
+    z-index: 4;
+    content: url(../assets/signInPage/yellow-break-line.svg);
+    pointer-events: none;
+}
+
+#globe {
+    position: absolute;
+    z-index: 5;
+    height: 100%;
+    bottom: -45%
+}
+
+.not-found__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 6;
+}
+
+.not-found__title {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.not-found__title h1 {
+    font-size: 90px !important;
+    color: white;
+    font-weight: bold !important;
+    margin-bottom: 3rem;
+}
+
+.not-found__title h2 {
+    color: white;
+    font-size: 41px !important;
+    font-weight: bold !important;
+}
+
+.not-found__title h1 span, .not-found__title h2 span {
+    color: #DAB865;
+}
+
+.numberOfError {
+    transform: scale(2);
+}
+
+.not-found__btn {
+    margin-top: 40px;
+    background-color: #DAB865;
+}
+
+.not-found__btn button a {
+    color: #232336;
+}
+
+@media (max-width: 991px) {
+    .not-found__title h1 {
+        font-size: 70px !important;
+        margin-bottom: 3rem;
+    }
+}
+
+@media (max-width: 767px) {
+
+    .not-found__title h2 {
+        font-size: 30px !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .not-found__title h1 {
+        font-size: 50px !important;
+        margin-bottom: 3rem;
+    }
+
+    .not-found__title h2 {
+        font-size: 22px !important;
+    }
+}
