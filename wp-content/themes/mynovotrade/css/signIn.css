@@ -80,6 +80,15 @@
     width: 445px;
 }
 
+.contact__form {
+    margin-top: 35px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 445px !important;
+}
+
 .form-items-row {
     width: 100%;
     padding-bottom: 30px;
