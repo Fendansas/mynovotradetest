@@ -10,6 +10,8 @@ get_header();
 $x = 1;
 $text = 'Test 2';
 $text_main = 'commit to main 1';
+$text_bugfix1 = 'commit to bugfix';
+$text_bugfix2 = 'commit to bugfix2';
 
 ?>
 <div class="wrapper">
