@@ -8,7 +8,8 @@ Template Name: Terminal
 get_header();
 //  Git test
 $x = 1;
-$text = 'Test 2'
+$text = 'Test 2';
+$text2 = 'commit to daveloper 1';
 
 ?>
 <div class="wrapper">
