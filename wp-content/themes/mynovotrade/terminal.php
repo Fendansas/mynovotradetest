@@ -9,9 +9,15 @@ get_header();
 //  Git test
 $x = 1;
 $text = 'Test 2';
+
+$text2 = 'commit to daveloper 1';
+$text3 = 'commit to daveloper 2';
+$text4 = 'commit to daveloper 3';
+
 $text_main = 'commit to main 1';
 $text_bugfix1 = 'commit to bugfix';
 $text_bugfix2 = 'commit to bugfix2';
+
 
 ?>
 <div class="wrapper">
