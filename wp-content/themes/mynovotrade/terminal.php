@@ -10,6 +10,7 @@ get_header();
 $x = 1;
 $text = 'Test 2';
 $text2 = 'commit to daveloper 1';
+$text3 = 'commit to daveloper 2';
 
 ?>
 <div class="wrapper">
