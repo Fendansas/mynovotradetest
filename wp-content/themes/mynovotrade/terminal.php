@@ -11,6 +11,7 @@ $x = 1;
 $text = 'Test 2';
 $text2 = 'commit to daveloper 1';
 $text3 = 'commit to daveloper 2';
+$text4 = 'commit to daveloper 3';
 
 ?>
 <div class="wrapper">
