@@ -3,12 +3,6 @@
 Template Name: Home page
 */
 
-
-
-get_header();
-?>
-
-<?php
 $main_group = get_field('main_group');
 
 $about_us = get_field('about_us');
@@ -20,7 +14,10 @@ $best_trader = get_field('best_trader');
 
 $platforms_section = get_field('platforms_section');
 
+get_header();
 ?>
+
+
 
 
 <div class="wrapper">
