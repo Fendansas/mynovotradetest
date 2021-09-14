@@ -6,6 +6,10 @@ Template Name: Terminal
 
 
 get_header();
+//  Git test
+$x = 1;
+$text = 'Test 2'
+
 ?>
 <div class="wrapper">
         <div class="templatePage__section">
