@@ -1,0 +1,16 @@
+2021-09-22T16:22:19+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in /Applications/MAMP/htdocs/wp-content/plugins/woocommerce/templates/loop/sale-flash.php:25
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Applications/MAMP/htdocs/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1395): wc_get_template('loop/sale-flash...')
+#2 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(303): woocommerce_show_product_loop_sale_flash('')
+#3 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 /Applications/MAMP/htdocs/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#5 /Applications/MAMP/htdocs/wp-content/themes/mynovotrade/page-shop.php(37): do_action('woocommerce_bef...')
+#6 /Applications/MAMP/htdocs/wp-includes/template-loader.php(106): include('/Applications/M...')
+#7 /Applications/MAMP/htdocs/wp-blog-header.php(19): require_once('/Applications/M...')
+#8 /Applications/MAM in /Applications/MAMP/htdocs/wp-content/plugins/woocommerce/templates/loop/sale-flash.php on line 25
+
+2021-09-22T16:45:04+00:00 CRITICAL Cannot redeclare wc_get_product_category_list() (previously declared in /Applications/MAMP/htdocs/wp-content/plugins/woocommerce/includes/wc-product-functions.php:1116) in /Applications/MAMP/htdocs/wp-content/themes/mynovotrade/page-shop.php on line 37
+
+2021-09-22T16:45:44+00:00 CRITICAL Cannot redeclare wc_get_product_category_list() (previously declared in /Applications/MAMP/htdocs/wp-content/plugins/woocommerce/includes/wc-product-functions.php:1116) in /Applications/MAMP/htdocs/wp-content/themes/mynovotrade/page-shop.php on line 7
+
