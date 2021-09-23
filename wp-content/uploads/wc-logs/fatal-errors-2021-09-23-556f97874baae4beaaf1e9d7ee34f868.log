@@ -1,2 +1,15 @@
 2021-09-23T13:58:24+00:00 CRITICAL syntax error, unexpected ';' in /Applications/MAMP/htdocs/wp-content/themes/mynovotrade/page-shop.php on line 30
 
+2021-09-23T15:59:17+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in /Applications/MAMP/htdocs/wp-content/plugins/woocommerce/templates/single-product/sale-flash.php:25
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /Applications/MAMP/htdocs/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1656): wc_get_template('single-product/...')
+#2 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(303): woocommerce_show_product_sale_flash('')
+#3 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 /Applications/MAMP/htdocs/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#5 /Applications/MAMP/htdocs/wp-content/plugins/woocommerce/templates/content-single-product.php(43): do_action('woocommerce_bef...')
+#6 /Applications/MAMP/htdocs/wp-includes/template.php(772): require('/Applications/M...')
+#7 /Applications/MAMP/htdocs/wp-content/plugins/woocommerce/includes/wc-core-functions in /Applications/MAMP/htdocs/wp-content/plugins/woocommerce/templates/single-product/sale-flash.php on line 25
+
+2021-09-23T16:05:06+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /Applications/MAMP/htdocs/wp-content/themes/mynovotrade/page-shop.php on line 75
+

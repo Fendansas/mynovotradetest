@@ -19,19 +19,34 @@ if (!function_exists('get_vd')) {
 
 get_header();
 ?>
+<div><p> 1</p> </div>
+
+
 <?php
 
-defined('ABSPATH') || exit;
-
-// test start
-$product = get_page_by_title( 'AK 47', OBJECT, 'product' );
-
-get_vd($product);
-
-// test end 
+defined('ABSPATH') || exit; ?>
 
 
-// Работает
+
+<?php //test
+
+
+$productsMentorship = wc_get_products($args); ?>
+
+<?php foreach ($productsMentorship as $product) : ?>
+<?php
+    $productId = $product->id;
+    $previewContent = get_field('title', $productId);
+    get_vd($previewContent);
+    echo $previewContent;
+?>
+<?php endforeach 
+//end test
+?>
+
+
+
+<?php 
 $args = array(
     'post_type'  => 'product',
     'posts_per_page'  => -1,
